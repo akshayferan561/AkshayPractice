@@ -1,5 +1,5 @@
 "This is QA env"
-"Another update from EC2 1st"
+
 "EC2 2nd one changes"
 "Lest see the updated line"
 Merge purpose
