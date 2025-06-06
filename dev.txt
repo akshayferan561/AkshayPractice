@@ -1,6 +1,5 @@
 "Welocme to dev env"
 "Changes made via Remote repo"
 Change for 2nd commit
-Again Friday
-x=2
+
 
